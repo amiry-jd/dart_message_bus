@@ -1,0 +1,9 @@
+language: dart
+dart:
+- stable
+dart_task:
+- test: --platform vm
+- test: --platform chrome
+- test: --platform dartium
+  install_dartium: true
+- dartanalyzer: true
