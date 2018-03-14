@@ -1,4 +1,4 @@
-# message_bus
+# dart_message_bus
 
 A useful implementation of
 [publish–subscribe messaging pattern][wiki] using Dart [Stream][stream].
@@ -23,7 +23,7 @@ which made it easier to identify and group messages.
 
 #### simple usage example:
 
-    import 'package:message_bus/message_bus.dart';
+    import 'package:dart_message_bus/dart_message_bus.dart';
 
     main() {
       // usually the MessageBus is a singleton shared instance
@@ -53,7 +53,7 @@ when the request got completed, it publishes a specified message
 -which actually is a message-back for `ServiceA`. The snippet below
 will do the work:
 
-    import 'package:message_bus/message_bus.dart';
+    import 'package:dart_message_bus/dart_message_bus.dart';
 
     class ServiceA {
       final MessageBus _bus;
@@ -115,8 +115,8 @@ For a complete scenario please clone the [git repo][git] and see and run tests.
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: https://github.com/javad-amiry/message_bus/issues
+[tracker]: https://github.com/javad-amiry/dart_message_bus/issues
 [wiki]: https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
 [stream]: https://api.dartlang.org/apidocs/channels/stable/dartdoc-viewer/dart:async.Stream
 [strongly-typed]: https://en.wikipedia.org/wiki/Strong_and_weak_typing
-[git]: https://github.com/javad-amiry/message_bus
+[git]: https://github.com/javad-amiry/dart_message_bus

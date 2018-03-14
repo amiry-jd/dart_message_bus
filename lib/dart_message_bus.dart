@@ -1,4 +1,4 @@
-library message_bus;
+library dart_message_bus;
 
 import 'dart:async';
 

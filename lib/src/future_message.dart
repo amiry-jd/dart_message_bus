@@ -1,4 +1,4 @@
-part of message_bus;
+part of dart_message_bus;
 
 class FutureMessage {
   final MessageBus _bus;

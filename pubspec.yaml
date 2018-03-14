@@ -1,7 +1,7 @@
-name: message_bus
+name: dart_message_bus
 description: A useful implementation of publish–subscribe messaging pattern using Dart Stream.
 version: 0.0.1
-homepage: https://github.com/javad-amiry/message_bus
+homepage: https://github.com/javad-amiry/dart_message_bus
 author: javad amiry <javad.d.amiry@gmail.com>
 
 environment:

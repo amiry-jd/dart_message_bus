@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:message_bus/message_bus.dart';
+import 'package:dart_message_bus/dart_message_bus.dart';
 import 'package:test/test.dart';
 
 class TriggerParam {
