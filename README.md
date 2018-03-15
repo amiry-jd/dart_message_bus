@@ -3,6 +3,12 @@
 A useful implementation of
 [publish–subscribe messaging pattern][wiki] using Dart [Stream][stream].
 
+[![Pub Package][pub-img]][pub]
+[![GitHub release][gh-release-img]][gh-release]
+[![Build Status][travis-build-img]][travis-build]
+[![GitHub license][gh-license-img]][gh-license]
+[![Twitter][tw-img]][tw]
+
 (From wikipedia:) In software architecture, publish–subscribe is a messaging pattern
 where senders of messages, called publishers, do not program
 the messages to be sent directly to specific receivers,
@@ -115,8 +121,62 @@ For a complete scenario please clone the [git repo][git] and see and run tests.
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
+## Contributing [![GitHub contributors][gh-ctrb-img]][gh-ctrb]
+
+Want to contribute? Great! Open an issue.
+
+----
+
+[![Documentation Status][docs-img]][docs]
+[![Github all releases][gh-release-all-img]][gh-release]
+[![GitHub version][gh-version-img]][gh-version]
+[![GitHub issues][gh-issues-img]][gh-issues]
+[![GitHub forks][gh-forks-img]][gh-forks]
+[![GitHub stars][gh-stars-img]][gh-stars]
+[![HitCount][hits-img]][hits]
+
+
 [tracker]: https://github.com/javad-amiry/dart_message_bus/issues
 [wiki]: https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern
 [stream]: https://api.dartlang.org/apidocs/channels/stable/dartdoc-viewer/dart:async.Stream
 [strongly-typed]: https://en.wikipedia.org/wiki/Strong_and_weak_typing
+
+[travis-build-img]: https://travis-ci.org/javad-amiry/dart_message_bus.svg?branch=master
+[travis-build]: https://travis-ci.org/javad-amiry/dart_message_bus
+
+[pub-img]: https://img.shields.io/pub/v/dart_message_bus.svg
+[pub]: https://pub.dartlang.org/packages/dart_message_bus
+
 [git]: https://github.com/javad-amiry/dart_message_bus
+
+[gh-release-img]: https://img.shields.io/github/release/javad-amiry/dart_message_bus.svg
+[gh-release]: https://GitHub.com/javad-amiry/dart_message_bus/releases/
+
+[gh-ctrb-img]: https://img.shields.io/github/contributors/javad-amiry/dart_message_bus.svg
+[gh-ctrb]: https://GitHub.com/javad-amiry/dart_message_bus/graphs/contributors/
+
+[gh-version-img]: https://badge.fury.io/gh/dart_message_bus.svg
+[gh-version]: https://github.com/javad-amiry/dart_message_bus
+
+[gh-license-img]: https://img.shields.io/github/license/javad-amiry/dart_message_bus.svg
+[gh-license]: https://github.com/javad-amiry/dart_message_bus/blob/master/LICENSE
+
+[gh-release-all-img]: https://img.shields.io/github/downloads/javad-amiry/dart_message_bus/total.svg
+
+[gh-issues-img]: https://img.shields.io/github/issues/javad-amiry/dart_message_bus.svg
+[gh-issues]: https://github.com/javad-amiry/dart_message_bus/issues
+
+[gh-forks-img]: https://img.shields.io/github/forks/javad-amiry/dart_message_bus.svg
+[gh-forks]: https://github.com/javad-amiry/dart_message_bus/network
+
+[gh-stars-img]: https://img.shields.io/github/stars/javad-amiry/dart_message_bus.svg
+[gh-stars]: https://github.com/javad-amiry/dart_message_bus/stargazers
+
+[hits-img]: http://hits.dwyl.io/javad-amiry/dart_message_bus.svg
+[hits]: http://hits.dwyl.io/javad-amiry/dart_message_bus
+
+[tw-img]: https://img.shields.io/twitter/url/https/github.com/javad-amiry/dart_message_bus.svg
+[tw]: https://twitter.com/intent/tweet?text=Wow!%20%23dart%20%23dartlang&url=https%3A%2F%2Fgithub.com%2Fjavad-amiry%2Fdart_message_bus
+
+[docs-img]: https://readthedocs.org/projects/dart-message-bus/badge/?version=latest
+[docs]: http://dart-message-bus.readthedocs.io/en/latest/?badge=latest
