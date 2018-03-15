@@ -155,8 +155,8 @@ Want to contribute? Great! Open an issue.
 [gh-ctrb-img]: https://img.shields.io/github/contributors/javad-amiry/dart_message_bus.svg
 [gh-ctrb]: https://GitHub.com/javad-amiry/dart_message_bus/graphs/contributors/
 
-[gh-version-img]: https://badge.fury.io/gh/dart_message_bus.svg
-[gh-version]: https://github.com/javad-amiry/dart_message_bus
+[gh-version-img]: https://badge.fury.io/gh/javad-amiry%2Fdart_message_bus.svg
+[gh-version]: https://badge.fury.io/gh/javad-amiry%2Fdart_message_bus
 
 [gh-license-img]: https://img.shields.io/github/license/javad-amiry/dart_message_bus.svg
 [gh-license]: https://github.com/javad-amiry/dart_message_bus/blob/master/LICENSE
